@@ -1,0 +1,1 @@
+# Angular Firebase Stater Template
